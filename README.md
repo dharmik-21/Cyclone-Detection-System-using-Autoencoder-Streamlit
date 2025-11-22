@@ -56,17 +56,8 @@ project/
 │── cyclone_autoencoder.weights.h5 # Saved model weights (after training)
 │── README.md
 
-🔧 Installation
-1. Clone the repository
-git clone https://github.com/yourusername/cyclone-detection-autoencoder
-cd cyclone-detection-autoencoder
 
 2. Install dependencies
-pip install -r requirements.txt
-
-
-Dependencies include:
-
 tensorflow
 streamlit
 opencv-python-headless
